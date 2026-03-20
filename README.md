@@ -77,6 +77,9 @@ The dataset used is the Telco Customer Churn dataset from Kaggle. It contains cu
 - Customers with longer tenure are less likely to churn
 
 - Not all high-risk customers are equally important; prioritization based on value is necessary
+  
+  <img width="567" height="432" alt="image" src="https://github.com/user-attachments/assets/236a7739-5e06-4f8a-aee4-c5515188803b" />
+
 
 **Business Implications**
 
